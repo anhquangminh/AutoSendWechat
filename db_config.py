@@ -1,0 +1,5 @@
+user = "AP2"
+pw = "NSDAP2LOGPD0522"
+ip = "10.224.81.31"
+port = "1521"
+servicename = "VNAP"
